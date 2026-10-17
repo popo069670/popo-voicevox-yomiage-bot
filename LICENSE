@@ -1,0 +1,50 @@
+Copyright (c) 2026 popo069670
+All rights reserved.
+
+This source code is published for transparency and review purposes only,
+so that users can verify how this bot works.
+
+You may NOT copy, modify, redistribute, sublicense, or host this software
+(including running your own instance of it for others) without the
+author's prior written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS SOFTWARE.
+
+---
+
+Copyright (c) 2026 popo069670
+無断転載・無断利用を禁じます。
+
+このソースコードは、利用者がBotの動作を確認できるようにする(透明性の確保)
+目的でのみ公開しています。
+
+作者の事前の書面による許可なく、本ソフトウェアを複製、改変、再配布、
+サブライセンス、またはホスティング(第三者向けに自分で動かすことを含む)
+することはできません。
+
+本ソフトウェアは「現状のまま」提供され、明示・黙示を問わず、いかなる保証も
+ありません。本ソフトウェアの利用により生じた損害について、作者は責任を
+負いません。
+
+This license shall be governed by and construed in accordance with the laws
+of Japan and applicable international law. In the event of any discrepancy
+between the English and Japanese versions, the Japanese version shall prevail.
+
+本ライセンスは、日本法および適用される国際法令に準拠し、これに従って解釈
+されるものとします。英語版と日本語版の内容に相違がある場合は、日本語版を
+優先します。
+Any dispute arising out of or in connection with this license shall be
+subject to the exclusive jurisdiction of the Tokyo District Court as the
+court of first instance.
+
+本ライセンスに関連して生じた一切の紛争については、東京地方裁判所を
+第一審の専属的合意管轄裁判所とします。
+このBotの詳細は README.md を参照してください。
+You may view and read this source code to verify how the bot works.
+このソースコードは、Botの動作確認のために閲覧することができます。
+VOICEVOX and third-party libraries are subject to their own licenses.
+VOICEVOXおよび利用しているライブラリには、それぞれのライセンスが適用されます。
